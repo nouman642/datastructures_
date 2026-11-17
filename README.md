@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/nouman642/datastructures_/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/nouman642/datastructures_/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/nouman642/datastructures_/tree/master/0560-subarray-sum-equals-k) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nouman642/datastructures_/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/nouman642/datastructures_/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/nouman642/datastructures_/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nouman642/datastructures_/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nouman642/datastructures_/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
