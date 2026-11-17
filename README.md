@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/nouman642/datastructures_/tree/master/0024-swap-nodes-in-pairs) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nouman642/datastructures_/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nouman642/datastructures_/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nouman642/datastructures_/tree/master/0054-spiral-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/nouman642/datastructures_/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
