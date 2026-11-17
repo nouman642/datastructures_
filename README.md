@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/nouman642/datastructures_/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/nouman642/datastructures_/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/nouman642/datastructures_/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/nouman642/datastructures_/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
