@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/nouman642/datastructures_/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nouman642/datastructures_/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/nouman642/datastructures_/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/nouman642/datastructures_/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nouman642/datastructures_/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nouman642/datastructures_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/nouman642/datastructures_/tree/master/0125-valid-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nouman642/datastructures_/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
