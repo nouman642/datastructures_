@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nouman642/datastructures_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/nouman642/datastructures_/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/nouman642/datastructures_/tree/master/0560-subarray-sum-equals-k) |
+| [2349-design-a-number-container-system](https://github.com/nouman642/datastructures_/tree/master/2349-design-a-number-container-system) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nouman642/datastructures_/tree/master/0232-implement-queue-using-stacks) |
+| [2349-design-a-number-container-system](https://github.com/nouman642/datastructures_/tree/master/2349-design-a-number-container-system) |
 ## Queue
 |  |
 | ------- |
@@ -121,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nouman642/datastructures_/tree/master/0136-single-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/nouman642/datastructures_/tree/master/2349-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/nouman642/datastructures_/tree/master/2349-design-a-number-container-system) |
 <!---LeetCode Topics End-->
