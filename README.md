@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nouman642/datastructures_/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/nouman642/datastructures_/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/nouman642/datastructures_/tree/master/0085-maximal-rectangle) |
+| [0136-single-number](https://github.com/nouman642/datastructures_/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nouman642/datastructures_/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/nouman642/datastructures_/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/nouman642/datastructures_/tree/master/0560-subarray-sum-equals-k) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nouman642/datastructures_/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/nouman642/datastructures_/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
